@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Vacation.Core.Domain\Vacation.Core.Domain.csproj" />
     <ProjectReference Include="..\Vacation.Core.Helpers\Vacation.Core.Helpers.csproj" />
   </ItemGroup>
 

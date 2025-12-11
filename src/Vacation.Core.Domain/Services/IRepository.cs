@@ -1,6 +1,6 @@
 using Vacation.Core.Helpers;
 
-namespace Vacation.Infrastructure.Repositories;
+namespace Vacation.Core.Domain.Services;
 
 public interface IRepository<TEntity> where TEntity : class
 {

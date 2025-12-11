@@ -1,6 +1,6 @@
 namespace Vacation.Core.Domain.ValueObjects;
 
-enum StatusOfRequest
+public enum StatusOfRequest
 {
     Draft,
     InProgress,

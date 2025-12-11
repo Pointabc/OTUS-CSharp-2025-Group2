@@ -12,7 +12,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Vacation.Core.Helpers\Vacation.Core.Helpers.csproj" />
-    <ProjectReference Include="..\Vacation.Infrastructure\Vacation.Infrastructure.csproj" />
   </ItemGroup>
 
   <ItemGroup>

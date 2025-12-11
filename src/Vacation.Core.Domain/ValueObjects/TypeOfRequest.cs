@@ -1,6 +1,6 @@
 namespace Vacation.Core.Domain.Entities;
 
-enum TypeOfRequest
+public enum TypeOfRequest
 {
     Pregnancy,
     Paid,

@@ -3,7 +3,6 @@ using Vacation.Core.Domain.Entities;
 using Vacation.Core.Domain.Factories;
 using Vacation.Core.Domain.Services;
 using Vacation.Core.Helpers;
-using Vacation.Infrastructure.Repositories;
 
 namespace Vacation.Core.Domain.Aggregates;
 
