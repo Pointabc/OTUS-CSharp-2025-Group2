@@ -36,9 +36,4 @@ public class WorkFlowAggregate : IWorkFlowAggregate
 
         return new Result<bool>();
     }
-
-    public int GetCurrentStep(Request request)
-    {
-        throw new NotImplementedException();
-    }
 }

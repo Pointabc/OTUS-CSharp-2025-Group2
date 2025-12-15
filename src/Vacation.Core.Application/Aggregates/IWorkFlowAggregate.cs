@@ -6,5 +6,4 @@ namespace Vacation.Core.Application.Aggregates;
 public interface IWorkFlowAggregate
 {
     Task<Result<bool>> RunNextAsync(Request request);
-    int GetCurrentStep(Request request);
 }
