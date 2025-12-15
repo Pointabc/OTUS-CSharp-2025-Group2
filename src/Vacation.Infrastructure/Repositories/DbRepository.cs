@@ -1,4 +1,5 @@
-using Vacation.Core.Helpers;
+using Vacation.Core.Domain.Services;
+using Vacation.Core.Domain.Helpers;
 
 namespace Vacation.Infrastructure.Repositories;
 

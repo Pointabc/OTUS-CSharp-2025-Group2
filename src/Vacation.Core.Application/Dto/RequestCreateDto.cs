@@ -1,7 +1,7 @@
 using Vacation.Core.Domain.Entities;
 using Vacation.Core.Domain.ValueObjects;
 
-namespace Vacation.Core.Domain.Dto;
+namespace Vacation.Core.Application.Dto;
 
 public class RequestCreateDto
 {

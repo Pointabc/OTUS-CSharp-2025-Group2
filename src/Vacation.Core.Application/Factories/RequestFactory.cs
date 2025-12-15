@@ -1,15 +1,12 @@
-using Vacation.Core.Domain.Dto;
+using Vacation.Core.Application.Dto;
 using Vacation.Core.Domain.Entities;
 
-namespace Vacation.Core.Domain.Factories;
+namespace Vacation.Core.Application.Factories;
 
 public class RequestFactory
 {
     public static Request CreateRequest(RequestCreateDto dto)
     {
-        /*
-         * processing
-         */
         return new Request();
     }
 }

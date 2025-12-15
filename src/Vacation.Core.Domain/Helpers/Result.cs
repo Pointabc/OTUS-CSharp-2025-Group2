@@ -1,5 +1,5 @@
 
-namespace Vacation.Core.Helpers
+namespace Vacation.Core.Domain.Helpers
 {
     public class Result<T>
     {

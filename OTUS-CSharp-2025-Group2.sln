@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vacation.Core.Domain", "src
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vacation.Infrastructure", "src\Vacation.Infrastructure\Vacation.Infrastructure.csproj", "{B9EC252F-08B0-4E94-92C0-FE88B8C929A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vacation.Core.Helpers", "src\Vacation.Core.Helpers\Vacation.Core.Helpers.csproj", "{3980F2CB-719D-44EC-BCC7-92E194969C36}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vacation.Core.Application", "src\Vacation.Core.Application\Vacation.Core.Application.csproj", "{05FB096A-B98C-4199-8DDD-1A2B4771D8F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vacation.Api", "src\Vacation.Api\Vacation.Api.csproj", "{0552FAB4-AEA9-46F7-B422-3BD45CFCCF0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,5 +32,13 @@ Global
 		{3980F2CB-719D-44EC-BCC7-92E194969C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3980F2CB-719D-44EC-BCC7-92E194969C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3980F2CB-719D-44EC-BCC7-92E194969C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05FB096A-B98C-4199-8DDD-1A2B4771D8F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FB096A-B98C-4199-8DDD-1A2B4771D8F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FB096A-B98C-4199-8DDD-1A2B4771D8F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FB096A-B98C-4199-8DDD-1A2B4771D8F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0552FAB4-AEA9-46F7-B422-3BD45CFCCF0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0552FAB4-AEA9-46F7-B422-3BD45CFCCF0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0552FAB4-AEA9-46F7-B422-3BD45CFCCF0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0552FAB4-AEA9-46F7-B422-3BD45CFCCF0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
